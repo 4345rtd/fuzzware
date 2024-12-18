@@ -1,5 +1,5 @@
 #!/bin/bash
-VENV_NAME=fuzzware
+VENV_NAME=fuzzware-seedpool
 
 for i in python3 automake redis-server tmux virtualenvwrapper.sh cmake clang clang++ git unzip arm-none-eabi-objcopy; do
 
